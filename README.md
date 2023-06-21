@@ -17,3 +17,4 @@
 ## Disclaimer
 
 - The python verion used in this notebook is 3.6.8 on a conda environment with GPU acceleration.
+- This notebook was submitted as an assignment during my course at northumbria university, kindly do not plagiarize.
