@@ -1,6 +1,6 @@
 # Malaria-cell-detection
 
-- This notebook focuses on the analysis of the "Malaria Cell Images Dataset" obtained from Kaggle which can be found [here](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria).
+- This notebook focuses on developing ML models and for the analysis of the "Malaria Cell Images Dataset" obtained from Kaggle which can be found [here](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria).
 - The aim of this project is to develop a deep learning model to reliably distinguish the numerous photos of malaria-infected and uninfected cells in the dataset.
 
 ## Sections
